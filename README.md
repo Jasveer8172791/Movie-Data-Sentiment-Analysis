@@ -1,5 +1,7 @@
-Movie Data Sentiment Analysis Project
-Overview
+Movie Data Sentiment Analysis Project :- 
+
+ Overview
+ 
 This project performs sentiment analysis on movie data scraped from IMDb, focusing on ratings, genres, and trends. The goal is to visualize key insights about movie popularity, genre distribution, and rating patterns.
 
 Movie-Data-Sentiment-Analysis/
@@ -16,7 +18,6 @@ Movie-Data-Sentiment-Analysis/
     └── (generated charts and graphs)
 
 Key Features
-Web scraping of IMDb movie data
 
 Data cleaning and preprocessing
 
@@ -31,7 +32,8 @@ Rating distributions
 Trends over time
 
 
-Insights
+Insights:- 
+
 Genre Popularity: Action and Drama dominate the top genres
 
 Rating Distribution: Most movies fall in the 6-8 rating range
@@ -50,10 +52,6 @@ pandas
 matplotlib
 
 seaborn
-
-BeautifulSoup (for web scraping)
-
-Selenium (for dynamic content)
 
 Usage
 Clone the repository
