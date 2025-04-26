@@ -3,7 +3,7 @@
 ## Project code : B44_DA_036 ##
 ## Project link:-##https://github.com/Jasveer8172791/Movie-Data-Sentiment-Analysis
 
-![cand1](https://github.com/user-attachments/assets/6a48bb05-4a44-482e-9ca4-d65001838aaf)
+![cand1](https://github.com/Jasveer8172791/Movie-Data-Sentiment-Analysis/blob/main/logo.png)
 
 # Movie Data Sentiment Analysis Project
 
@@ -70,5 +70,7 @@ Create interactive dashboards with Power BI
 
 Analyze box office performance vs. ratings
 
+
+![cand1](https://github.com/Jasveer8172791/Movie-Data-Sentiment-Analysis/blob/main/logo.png)
 #### Thank you for exploring this dashboard! We appreciate your interest in understanding superduper movies and contributing to awareness and genre improvements🚗⚡❤**
 
