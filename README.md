@@ -1,4 +1,4 @@
-# Rape-Violence-In-India-Project
+# Movie-Data-Sentiment-Analysis
 
 ## Project code : B44_DA_036 ##
 ## Project link:-##https://github.com/Jasveer8172791/Movie-Data-Sentiment-Analysis
@@ -55,7 +55,7 @@ Your support and contributions have been instrumental in making this project a s
 
 - *Datasets*: Taken from popular and believeable platform kaggle
 
-- *Visualization Libraries*: Streamlit, Plotly, and more.
+- *Visualization Libraries*: Power Bi, Matplotlib.pyplot, Seaborn & more.
 
 
 ## 🛠 Future Enhancements
@@ -70,5 +70,5 @@ Create interactive dashboards with Power BI
 
 Analyze box office performance vs. ratings
 
-#### Thank you for exploring this dashboard! We appreciate your interest in understanding crime trends and contributing to awareness and policy improvements🚗⚡❤**
+#### Thank you for exploring this dashboard! We appreciate your interest in understanding superduper movies and contributing to awareness and genre improvements🚗⚡❤**
 
