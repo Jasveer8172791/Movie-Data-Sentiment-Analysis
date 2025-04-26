@@ -1,10 +1,10 @@
-Movie Data Sentiment Analysis Project :- 
+### Movie Data Sentiment Analysis Project :- 
 
- Overview
+ #### Overview
  
 This project performs sentiment analysis on movie data scraped from IMDb, focusing on ratings, genres, and trends. The goal is to visualize key insights about movie popularity, genre distribution, and rating patterns.
 
-Movie-Data-Sentiment-Analysis/
+##### Movie-Data-Sentiment-Analysis:- 
 │
 ├── data/
 │   └── IMDB Top 250 Movies.csv (raw dataset)
@@ -17,7 +17,7 @@ Movie-Data-Sentiment-Analysis/
 └── visualizations/
     └── (generated charts and graphs)
 
-Key Features
+#### Key Features
 
 Data cleaning and preprocessing
 
@@ -32,7 +32,7 @@ Rating distributions
 Trends over time
 
 
-Insights:- 
+#### Insights:- 
 
 Genre Popularity: Action and Drama dominate the top genres
 
@@ -40,7 +40,7 @@ Rating Distribution: Most movies fall in the 6-8 rating range
 
 Trends: Ratings show interesting patterns when analyzed by year and genre
 
-Requirements
+#### Requirements
 Python 3.x
 
 Jupyter Notebook
@@ -56,7 +56,6 @@ seaborn
 Usage
 Clone the repository
 
-Install required packages: pip install -r requirements.txt
 
 Run the Jupyter notebook: jupyter notebook A_Construct_week_Project.ipynb
 
